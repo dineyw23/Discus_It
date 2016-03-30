@@ -19,6 +19,8 @@ gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'rails_12factor'
+
 # Use postgresql as the database for Active Record
 
 group :development, :test do
